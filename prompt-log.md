@@ -1,9 +1,9 @@
-**Initial Prompt**
-
+**Initial Prompt:**
+-
 -You are a Senior Humanitarian Data Analyst. I have attached the official West & Central Africa Cadre Harmonisé (CH) food security dataset. Filter this data to 'Nigeria' (adm0_name == 'Nigeria'). For the latest recorded exercise year, identify the top 5 states (adm1_name) with the highest population in Phase 3–5 (phase35) and generate a summary table and a bar chart comparing them.
 
 **Prompt for the finalized clean_nigeria_food_security.csv:**
-
+-
 -Filter this dataset strictly where adm0_name == 'Nigeria'. Select only the following columns: adm1_name, adm2_name, exercise_year, exercise_label, chtype, population, phase_class, phase1, phase2, phase3, phase4, phase5, phase35.
 
 Next, engineer two new calculated columns: 
