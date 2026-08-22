@@ -1,1 +1,27 @@
-Dataset Profile & Key Metrics (Nigeria Analysis)Metric / DimensionCalculated ValueTotal Records Processed14,734 rows (2015 – 2026 cycles)Monitored LGAs668 unique LGAs across 28 Nigerian StatesAverage Population in Crisis (Phase 3–5)~42,477 per assessment unit (Mean Crisis Rate: 13.1%)Maximum Localized Crisis Peak90.0% (Certain high-stress conflict LGAs in Borno/Yobe)
+Metric / Dimension,Calculated Value
+Total Records Processed,"14,734 rows (2015 – 2026 cycles)"
+Monitored LGAs,668 unique LGAs across 28 Nigerian States
+Average Population in Crisis (Phase 3–5),"~42,477 per assessment unit (Mean Crisis Rate: 13.1%)"
+Maximum Localized Crisis Peak,90.0% (Certain high-stress conflict LGAs in Borno/Yobe)
+
+Key Analytical Findings (For Your Case Study Write-up)
+State-Level Crisis Epicenters:
+
+Borno State leads all states with over 3.78M people in Phase 3–5 (Crisis or Emergency), followed closely by North-West agrarian states: Kaduna (3.27M), Katsina (3.25M), and Kano (2.88M).
+
+Lagos State records 2.69M people in Phase 3+, demonstrating that urban economic pressure and food inflation create severe food stress independent of rural conflict.
+
+2025 Severity Distribution Across Monitored Areas:
+
+Phase 2 (Stressed): 1,738 assessment records (populations struggling to meet basic non-food expenditures).
+
+Phase 3 (Crisis): 495 assessment records (acute food consumption gaps).
+
+Phase 4 (Emergency): 17 assessment records requiring urgent life-saving humanitarian aid.
+
+Generated Visualizations (Save for Your Repository)
+1. Top 10 Nigerian States by Acute Food Insecurity (Phase 3–5)
+This chart highlights the geographical concentration of food stress across the top 10 impacted states:
+
+2. Multi-Year Trend in Acute Food Insecurity (2015–2026)
+This chart illustrates the multi-year trajectory of monitored acute food insecurity across assessment cycles:
