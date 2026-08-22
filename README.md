@@ -13,3 +13,7 @@ Extract actionable regional crisis alerts, calculate population severity ratios,
 ## Key Findings
 - **High-Risk Zones:** Identified key LGAs in the North-East and North-West where projected Phase 3+ populations surged by over 25% year-over-year.
 - **Seasonal Delta:** Projected acute food insecurity peaks consistently between June and August (lean season) across monitored agricultural zones.
+
+## Repository Contents
+- `data/`: Contains raw vs. clean dataset exports.
+- `prompts/prompt_log.md`: Step-by-step breakdown of system prompts used for transformation.
