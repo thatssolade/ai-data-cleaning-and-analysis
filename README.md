@@ -8,7 +8,7 @@ Humanitarian datasets from international monitoring bodies often span multiple c
 ## Objective
 Extract actionable regional crisis alerts, calculate population severity ratios, and forecast seasonal food stress across Nigerian states using prompt-assisted data pipelines.
 
-## 🛠️ Stack & Methodology
+## Stack & Methodology
 - **Data Source:** UN Cadre Harmonisé / Integrated Food Security Phase Classification (IPC)
 - **Tools:** Gemini (Google AI Workflow), Google Sheets, Python (`pandas`, `matplotlib`, `seaborn`)
 - **Key Engineered Features:**
