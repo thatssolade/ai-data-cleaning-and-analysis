@@ -1,4 +1,5 @@
 # Nigeria Acute Food Security & Crisis Analysis (2015–2026)
+`Source: https://data.humdata.org/dataset/cadre-harmonise`
 
 An empirical data analysis project utilizing Generative AI (Gemini) and Python to parse, clean, and analyze over 14,700 UN Cadre Harmonisé (CH) / IPC humanitarian records across 28 Nigerian states and 668 LGAs.
 
