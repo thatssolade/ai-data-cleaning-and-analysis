@@ -9,7 +9,7 @@
 ---
 
 ## Key Analytical Findings:
-State-Level Crisis Epicenters:
+### State-Level Crisis Epicenters:
 
 -Borno State leads all states with over 3.78M people in Phase 3–5 (Crisis or Emergency), followed closely by North-West agrarian states: Kaduna (3.27M), Katsina (3.25M), and Kano (2.88M).
 
