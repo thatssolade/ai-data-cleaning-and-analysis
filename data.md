@@ -9,6 +9,18 @@ Raw data sliced and cleaned (Tracking Acute Food Insecurity & Crisis Projections
 | **Maximum Localized Crisis Peak** | 90.0% (Certain high-stress conflict LGAs in Borno/Yobe) |
 ---
 
+## Granular LGA Hotspot Callout (The "Operational Drill-Down")
+Top critical Local Government Areas (LGAs) that reached Phase 4 (Emergency):
+
+| **State** | **LGA** | **Monitored Population** | **Phase 3–5 Population** | **Crisis Rate (%)** | **Humanitarian Severity Tier** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Borno**| **Kala** | 142,005 | 93,723| 66.0% | Phase 4: Emergency |
+| **Borno** | **Mobbar** | 212,446 | 138,090 | 65.0% | Phase 4: Emergency |
+| **Borno** | **Bama** | 237,219| 149,448 | 63.0% | Phase 4: Emergency |
+| **Borno** | **Monguno** | 257,316 | 159,536 | 62.0% | Phase 4: Emergency|
+| **Borno** | **Magumeri** | 333,139 | 196,552 | 59.0% | Phase 4: Emergency|
+---
+
 ## Key Analytical Findings:
 ### State-Level Crisis Epicenters:
 
