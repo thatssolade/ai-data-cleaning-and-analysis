@@ -23,4 +23,9 @@ Extract actionable regional crisis alerts, calculate population severity ratios,
 ## Repository Structure
 - `data`: Contains raw multi-country source data and the prompt-cleaned Nigeria subset (`Tracking Acute Food Insecurity & Crisis Projections in Nigeria (2015–2026) - Nigeria_Analysis.csv`).
 - `prompt-log.md`: Natural language prompting sequence used for data slicing and formula generation.
-- `visuals/`: Multi-year trend lines and state-level bar charts. 
+- `visuals`: Multi-year trend lines and state-level bar charts.
+
+## Strategic & Humanitarian Recommendations
+1. **Targeted Aid Allocation:** Prioritize early relief staging in Kala/Balge, Mobbar, and Bama, where acute crisis levels exceed 60% of total LGA populations.
+2. **Urban Safety Nets:** Expand subsidized food access in high-density consumer hubs (e.g., Alimosho, Lagos) to counter inflation-driven urban Phase 3 spikes.
+3. **Lean-Season Early Warning:** Schedule buffer stock distributions prior to the June–August window to mitigate the historical 25%+ projected lean-season deterioration.
