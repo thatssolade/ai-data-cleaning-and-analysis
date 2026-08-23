@@ -1,5 +1,6 @@
 ## Dataset Profile & Key Metrics (Nigeria Analysis)
--
+Raw data sliced and cleaned (Tracking Acute Food Insecurity & Crisis Projections in Nigeria 2015–2026): https://docs.google.com/spreadsheets/d/1CNGJsqUvXCAS7kDusAJvFCgrdjpey4Dnu_H2NQQkt1A/edit?usp=sharing 
+
 | **Metric / Dimension** | **Calculated Value** | 
 | :--- | :--- |
 | **Total Records Processed** | 14,734 rows (2015 – 2026 cycles) | 
@@ -22,7 +23,3 @@ Phase 2 (Stressed): 1,738 assessment records (populations struggling to meet bas
 Phase 3 (Crisis): 495 assessment records (acute food consumption gaps).
 
 Phase 4 (Emergency): 17 assessment records requiring urgent life-saving humanitarian aid.
-
-
-### Test 1: Financial Panic Response
-![Panic Test Run](./fintech-redteam-proof.png)
